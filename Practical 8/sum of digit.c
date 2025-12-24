@@ -1,6 +1,6 @@
 #include <stdio.h>
 int sumOfDigits(int n){
-    //Ayush kumar_10341
+    //Ayush kumar_10343
     int sum =0;
     while (n!=0) {
         sum=sum+(n%10);
@@ -17,4 +17,5 @@ int main(){
 }
 //output
 //Enter a number: 67456
+
 //Sum of digits = 28
