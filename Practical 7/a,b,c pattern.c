@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    //Ayush kumar_10341
+    //Ayush kumar_10343
     int n = 4;
     for (int i=1;i<=n;i++) {
         char ch ='A';
@@ -16,4 +16,5 @@ int main(){
 //A
 //AB
 //ABC
+
 //ABCD
