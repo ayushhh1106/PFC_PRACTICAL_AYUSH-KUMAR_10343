@@ -1,6 +1,6 @@
 #include <stdio.h>
 void swap(int*a,int*b){
-    //Ayush kumar_10341
+    //Ayush kumar_10343
     int temp;
     temp =*a;
     *a=*b;
@@ -19,4 +19,5 @@ int main() {
 //Enter two numbers:
 //5 7
 //Before swapping:x=5,y=7
+
 //After swapping: x=7, y=5
