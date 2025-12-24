@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    // Ayush kumar_10341
+    // Ayush kumar_10343
     int correctPIN = 1234;
     int enteredPIN;
     int attempts = 3;
@@ -30,4 +30,5 @@ int main()
 // Incorrect PIN. Attempts left: 1
 // Enter your ATM PIN: 765
 // Incorrect PIN. Attempts left: 0
+
 // Your card is blocked due to multiple incorrect attempts.
