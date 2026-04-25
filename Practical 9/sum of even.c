@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Ayush kumar 10343
+// Ayush kumar RU-25-10343
 int main() {
     int n, i;
     int arr[100];
