@@ -10,7 +10,7 @@ int sumOfDigits(int n){
 }
 int main(){
     int n;
-    printf("Enter a number: ");
+    printf("Enter a digit: ");
     scanf("%d", &n);
     printf("Sum of digits = %d\n", sumOfDigits(n));
     return 0;
