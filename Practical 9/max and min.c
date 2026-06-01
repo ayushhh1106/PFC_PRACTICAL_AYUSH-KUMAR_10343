@@ -23,7 +23,7 @@ int main() {
     }
 
     printf("Maximum element: %d\n", max);
-    printf("Minimum element: %d", min);
+    printf("Minimum elements: %d", min);
 
     return 0;
 }
