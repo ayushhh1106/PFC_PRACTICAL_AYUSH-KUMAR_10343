@@ -3,7 +3,7 @@ int main(){
     //Ayush kumar_10343
     // E
     int n;
-    printf("Enter the value of n: ");
+    printf("Enter the value of n : ");
     scanf("%d", &n);
     for (int i=1;i<=n;i++) {
         for (int space = 1; space<=n-i; space++) {
