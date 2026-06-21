@@ -22,7 +22,7 @@ int main() {
             min = arr[i];
     }
 
-    printf("Maximum element: %d\n", max);
+    printf("Maximum element: %d\n", max );
     printf("Minimum element: %d", min);
 
     return 0;
