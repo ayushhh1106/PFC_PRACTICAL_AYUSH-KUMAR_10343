@@ -20,7 +20,7 @@ int main()
             printf("Incorrect PIN. Attempts left: %d\n", attempts);
         }
     }
-    printf("Your card is blocked due to multiple incorrect attempts.\n");
+    printf("Your card is blocked due to multiple  incorrect attempts.\n");
     return 0;
 }
 // output ;
