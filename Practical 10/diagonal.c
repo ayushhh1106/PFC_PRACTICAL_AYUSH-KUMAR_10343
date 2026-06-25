@@ -3,7 +3,7 @@
 int main() {
     int a[10][10], r, c, i, j, sum;
 
-    printf("Enter number of rows and columns: ");
+    printf("Enter number of rows and columns : ");
     scanf("%d %d", &r, &c);
 
     printf("Enter elements:\n");
