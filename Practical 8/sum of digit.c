@@ -6,7 +6,7 @@ int sumOfDigits(int n){
         sum=sum+(n%10);
         n=n/10;
     }
-    return sum;
+    return sum ;
 }
 int main(){
     int n;
